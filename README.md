@@ -37,7 +37,7 @@ sp=sin(i); cp=             cos(i);h=ct+2;D=1/
               end;end;donut()
 ```
 
-View the raw donut at [`donut.jl`](https://raw.githubusercontent.com/mossr/Donut.jl/master/donut.jl) and an unobfuscated version at [`donut-unobfuscated.jl`](https://github.com/mossr/Tetris.jl/blob/master/src/donut-unobfuscated.jl).
+View the raw donut at [`donut.jl`](https://raw.githubusercontent.com/mossr/Donut.jl/master/donut.jl) and an unobfuscated version at [`donut-unobfuscated.jl`](https://github.com/mossr/Donut.jl/blob/master/src/donut-unobfuscated.jl).
 
 
 ---
