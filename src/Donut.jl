@@ -1,0 +1,5 @@
+module Donut
+
+# 🍩
+
+end # module
