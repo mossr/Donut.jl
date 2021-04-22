@@ -40,5 +40,7 @@ sp=sin(i); cp=             cos(i);h=ct+2;D=1/
 View the raw donut at [`donut.jl`](https://raw.githubusercontent.com/mossr/Donut.jl/master/donut.jl) and an unobfuscated version at [`donut-unobfuscated.jl`](https://github.com/mossr/Donut.jl/blob/master/src/donut-unobfuscated.jl).
 
 
+<img src="./img/donut.gif">
+
 ---
 [Robert Moss](http://web.stanford.edu/~mossr)
